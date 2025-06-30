@@ -1,5 +1,6 @@
 titan dt is dataset taken from kaggle  https://www.kaggle.com/c/titanic/data
 titan.py is pyhton file
+
 📌 Titanic Data Analysis (EDA) Project
 This project performs data cleaning and exploratory data analysis (EDA) on the classic Titanic dataset (uploaded as titan dt.xlsx).
 We explore relationships between passenger features and survival outcomes using Python, pandas, seaborn, and matplotlib.
